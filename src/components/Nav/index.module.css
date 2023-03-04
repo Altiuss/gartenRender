@@ -53,11 +53,12 @@
 
 .cupons {
   position: absolute;
-  font-size: 16px;
-  font-weight: 500;
+  color: "inherit"  !important;
+  font-size: 26px;
+  font-weight: 800;
   top: 44px;
   right: 363px;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .discount {
@@ -71,19 +72,21 @@
 
 .contact {
   position: absolute;
+  color: "inherit"  !important;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 800;
   top: 44px;
   right: 114px;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .cart {
   position: absolute;
+  color: "inherit";
   font-size: 38px;
   top: 35px;
   right: 32px;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .cart_count {

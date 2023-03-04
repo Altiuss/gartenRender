@@ -29,7 +29,7 @@ export default function Nav() {
           <p className={s.cupons}>Coupon</p>
         </HashLink>
 
-        <HashLink to="/#sale" smooth={true} offset={-100} duration={1000}>
+        <HashLink to="/#sale" smooth={true} offset={-100} duration={1000} >
           <p className={s.discount}>Sale</p>
         </HashLink>
 
